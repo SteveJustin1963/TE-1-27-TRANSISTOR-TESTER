@@ -1,6 +1,6 @@
 # TE-1-27-TRANSISTOR-TESTER
 
-https://easyeda.com/editor#id=bff2c7c877fe4083abaef41d85bd8416
+https://easyeda.com/editor#id=bff2c7c877fe4083abaef41d85bd8416|d5d568dd1cdc48e7888f0c318c3e9425
 
 ## A SIMPLE TRANSISTOR TESTER
 
